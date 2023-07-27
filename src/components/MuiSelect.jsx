@@ -8,7 +8,7 @@ import React, { useState } from "react";
  * 2. SelectProps : Select API 사용
  *
  *
- * Box : div 대시 사용
+ * Box : div 대신 사용
  *
  */
 
